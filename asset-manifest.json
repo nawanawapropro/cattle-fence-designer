@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/cattle-fence-designer/static/css/main.1d70c9ce.css",
+    "main.js": "/cattle-fence-designer/static/js/main.1f2fe431.js",
+    "static/js/239.304df85e.chunk.js": "/cattle-fence-designer/static/js/239.304df85e.chunk.js",
+    "static/js/213.a19e924c.chunk.js": "/cattle-fence-designer/static/js/213.a19e924c.chunk.js",
+    "static/js/455.14f74940.chunk.js": "/cattle-fence-designer/static/js/455.14f74940.chunk.js",
+    "index.html": "/cattle-fence-designer/index.html",
+    "main.1d70c9ce.css.map": "/cattle-fence-designer/static/css/main.1d70c9ce.css.map",
+    "main.1f2fe431.js.map": "/cattle-fence-designer/static/js/main.1f2fe431.js.map",
+    "239.304df85e.chunk.js.map": "/cattle-fence-designer/static/js/239.304df85e.chunk.js.map",
+    "213.a19e924c.chunk.js.map": "/cattle-fence-designer/static/js/213.a19e924c.chunk.js.map",
+    "455.14f74940.chunk.js.map": "/cattle-fence-designer/static/js/455.14f74940.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d70c9ce.css",
+    "static/js/main.1f2fe431.js"
+  ]
+}
