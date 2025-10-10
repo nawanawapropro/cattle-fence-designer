@@ -1,6 +1,20 @@
 # 牛舎の柵簡易設計アプリケーション
 
-CADの専門知識がなくても、牛舎用金属パイプ柵の図面を迅速かつ正確に作成できるデスクトップアプリケーションです。
+CADの専門知識がなくても、牛舎用金属パイプ柵の図面を迅速かつ正確に作成できるアプリケーションです。
+
+## 🚀 今すぐ使う
+
+### Web版（推奨）
+**インストール不要！ブラウザで今すぐ利用開始：**
+
+👉 **[https://nawanawapropro.github.io/cattle-fence-designer](https://nawanawapropro.github.io/cattle-fence-designer)**
+
+### デスクトップ版
+フル機能版をダウンロード：[Releases](https://github.com/nawanawapropro/cattle-fence-designer/releases)
+
+- **Windows**: `cattle-fence-designer-Setup-*.exe` をダウンロードして実行
+- **macOS**: `cattle-fence-designer-*.dmg` をダウンロードして開く
+- **Linux**: `cattle-fence-designer-*.AppImage` に実行権限を付与して実行
 
 ## 特徴
 
@@ -12,7 +26,12 @@ CADの専門知識がなくても、牛舎用金属パイプ柵の図面を迅�
 
 ## システム要件
 
-- Windows 10 (64bit) 以降
+### Web版
+- モダンなWebブラウザ（Chrome、Firefox、Safari、Edge最新版）
+- インターネット接続（初回アクセス時のみ）
+
+### デスクトップ版
+- Windows 10 (64bit) 以降 / macOS 10.14以降 / Linux (64bit)
 - メモリ 4GB以上（8GB推奨）
 - ストレージ 100MB以上の空き容量
 - 解像度 1366×768以上（1920×1080推奨）
